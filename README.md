@@ -5,4 +5,4 @@ USAGE:
 python3 draw_map2d.py
 
 NOTICE the format of vio_map.map.
-You need to modify the .pgm generated a bit to use it.
+You need to modify the generated .pgm a bit (using GIMP for example) to use it.
